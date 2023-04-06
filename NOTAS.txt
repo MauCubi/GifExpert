@@ -1,0 +1,1 @@
+Nunca poner funciones adentro de los funtional components
